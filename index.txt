@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello World GIT!!! Agora vai!!!!
 
 Segundo teste
+=======
+Segunda alteração
+
+Testando mais um pouco
+>>>>>>> v2
